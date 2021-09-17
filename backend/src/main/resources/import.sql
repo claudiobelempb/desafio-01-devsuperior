@@ -1,0 +1,10 @@
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Fabiana Isabela Tânia Viana', '318.342.448-70', 5000, '2020-07-21T20:59:19Z', 2);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Bryan Guilherme Silva', '171.100.306-95', 2500, '2020-06-20T20:30:26Z', 2);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Regina Heloise Melo', '904.972.064-12', 6500, '2020-06-15T15:01:37Z', 2);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Liz Priscila Maya da Mota', 'Liz Priscila Maya da Mota', 1500, '2020-05-22T19:05:38Z', 2);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Igor Edson Duarte', '694.042.248-04', 1900, '2020-07-11T11:31:03Z', 2);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Emanuelly Ester Eduarda Nunes', '023.456.789-89', 3500, '2020-07-11T00:36:59Z', 2);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Renato Vitor Bernardo Fogaça', '143.426.631-12', 2600, '2020-06-14T03:33:16Z', 2);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Jennifer Rosângela Rezende', '023.456.789-89', 5600, '2020-05-30T12:35:32Z', 2);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Enzo Thomas Bernardes', '523.459.934-56', 6300, '2020-06-05T16:59:51Z', 2);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Thomas Thiago Arthur Porto', '781.342.797-16', 4200, '2020-07-05T15:09:38Z', 2);
